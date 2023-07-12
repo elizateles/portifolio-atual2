@@ -821,6 +821,29 @@ footer-iconTop a:hover {
 
 }
 
+@media (max-width: 447px) {
+
+    .projetos {
+        padding-left: 08%;
+
+    }
+
+    .skills {
+        padding-left: 30%;
+    }
+
+    .cabecalho-skills {
+        text-align: center;
+        font-size: 3rem;
+        margin-top: -24%;
+    }
+    
+
+
+}
+
+
+
 
 
 
