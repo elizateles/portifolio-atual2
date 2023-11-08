@@ -250,7 +250,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 3rem;
-    height: 120vh;
+    height: 90vh;
     border: #2a1051;
 }
 
@@ -301,7 +301,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 3rem;
-    height: 100vh;
+    height: 90vh;
    
 }
 
@@ -310,8 +310,8 @@ body {
     justify-content: center;
     text-align: center;
     width: 100%;
-    margin-bottom: 0%;
-    margin-top: 14%;
+    margin-bottom: -7%;
+    margin-top: 2%;
     
     font-size: 3rem;
     opacity: 0;
